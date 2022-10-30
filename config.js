@@ -51,35 +51,36 @@ const CONFIG = {
 	// └─┘└─┘ ┴  ┴ └─┘┘└┘└─┘
 
 	firstButtonsContainer: [
+
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Mail',
+			icon: 'mail',
+			link: 'https://mail.google.com/',
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'Calendar',
+			icon: 'calendar',
+			link: 'https://calendar.google.com/calendar/r,
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
-		},
-		{
-			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
+			name: 'Youtube',
+			icon: 'youtube',
 			link: 'https://calendar.google.com/calendar/r',
 		},
 		{
+			id: '4',
+			name: 'Twitch',
+			icon: 'twitch',
+			link: 'https://www.twitch.tv/',
+		},
+		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Plex',
+			icon: 'tv-2',
+			link: 'http://127.0.0.1:32400/web/index.html',
 		},
 		{
 			id: '6',
