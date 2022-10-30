@@ -54,20 +54,20 @@ const CONFIG = {
 
 		{
 			id: '1',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.google.com/',
+			name: 'Youtube',
+			icon: 'youtube',
+			link: 'https://youtube.com/',
 		},
 		{
 			id: '2',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Gmail',
+			icon: 'mail',
+			link: 'https://mail.google.com',
 		},
 		{
 			id: '3',
-			name: 'Youtube',
-			icon: 'youtube',
+			name: 'Calendar',
+			icon: 'calendar',
 			link: 'https://calendar.google.com/calendar/r',
 		},
 		{
@@ -78,15 +78,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Plex',
-			icon: 'tv-2',
-			link: 'http://127.0.0.1:32400/web/index.html',
+			name: 'Twitter',
+			icon: 'twitter',
+			link: 'https://twitter.com/',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Reddit',
+			icon: 'flame',
+			link: 'https://reddit.com/',
 		},
 	],
 
@@ -134,42 +134,42 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'FUT',
+					link: 'https://www.easports.com/uk/fifa/ultimate-team/web-app/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Futbin',
+					link: 'https://www.futbin.com',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'UOL',
+					link: 'https://www.uol.com.br',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Globo',
+					link: 'https://www.globo.com',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'tv-2',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'HBO Max',
+					link: 'https://play.hbomax.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Plex',
+					link: 'http://127.0.0.1:32400/web/index.html',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Star+',
+					link: 'https://www.starplus.com/home',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Netflix',
+					link: 'http://www.netflix.com/',
 				},
 			],
 		},
